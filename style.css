@@ -887,3 +887,19 @@ select {
     }
 
 }
+
+.google-form {
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.google-form iframe {
+    display: block;
+    width: 100%;
+    min-height: 1200px;
+    border: none;
+}
